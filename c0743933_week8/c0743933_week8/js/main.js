@@ -43,9 +43,12 @@ var person = {
 }
 var animal;
 var animal2 = animal;
-animal2 = enus: "corvus", species: "corvax", commonName: "raven", quote: "NeverMore",
-    maxOffspring: 5, noisy: true,
-        deadly: false..
+{
+    animal2 = enus: "corvus", species: "corvax", commonName: "raven", quote: "NeverMore",
+        maxOffspring: 5, noisy: true,
+            deadly: false..
+
+}
       
             
                 

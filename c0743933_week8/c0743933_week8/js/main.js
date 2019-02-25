@@ -51,7 +51,7 @@ var animal2 = animal;
 }
 
 var myArray = [];
-myArray
+myArray 
 {
     var daysOftheweek = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 

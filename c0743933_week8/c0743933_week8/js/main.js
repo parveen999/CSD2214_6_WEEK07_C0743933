@@ -28,13 +28,9 @@ var car = {
 var MOTORCYCLE = {
     color: "BLUE",
     numtires: 2,
-    model: "SPLENDOR"
+    model: "SPLENDOR",
+    year:"2012:
 }
-var dog = "peanut";
-dog
-"peanut"{
-    console.log(dog.toUpperCase);
-};
 
 var person = {
     firstname: "john",
@@ -42,6 +38,16 @@ var person = {
     language="",
     set lang(lang) {
         this.language = lang;
-       
+
     }
-};
+}
+var animal;
+var animal2 = animal;
+animal2 = enus: "corvus", species: "corvax", commonName: "raven", quote: "NeverMore",
+    maxOffspring: 5, noisy: true,
+        deadly: false..
+      
+            
+                
+                        
+

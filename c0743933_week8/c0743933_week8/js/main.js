@@ -30,3 +30,18 @@ var MOTORCYCLE = {
     numtires: 2,
     model: "SPLENDOR"
 }
+var dog = "peanut";
+dog
+"peanut"{
+    console.log(dog.toUpperCase);
+};
+
+var person = {
+    firstname: "john",
+    lastname: "doe",
+    language="",
+    set lang(lang) {
+        this.language = lang;
+       
+    }
+};

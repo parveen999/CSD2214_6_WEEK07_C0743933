@@ -29,7 +29,7 @@ var MOTORCYCLE = {
     color: "BLUE",
     numtires: 2,
     model: "SPLENDOR",
-    year:"2012:
+    year:"2012"
 }
 
 var person = {
@@ -49,8 +49,15 @@ var animal2 = animal;
             deadly: false..
 
 }
-      
-            
-                
+
+var myArray = [];
+myArray
+{
+    var daysOftheweek = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
+
+}
+for (i = days.length; i < days.length; i--) {
+    console.log(days[i]);
+}
                         
 

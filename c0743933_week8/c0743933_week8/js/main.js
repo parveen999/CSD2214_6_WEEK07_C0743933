@@ -8,7 +8,7 @@ var bird = {
     maxOffspring: 5,
     noisy: true,
     deadly: false
-};
+}
 
 var bear = {
     genus: "ursus",
@@ -19,4 +19,14 @@ var bear = {
     maxOffspring: 3,
     noisy: true,
     deadly: true
-};
+}
+var car = {
+    color: "RED",
+    numtires: 4,
+    model: "HONDA"
+}
+var MOTORCYCLE = {
+    color: "BLUE",
+    numtires: 2,
+    model: "SPLENDOR"
+}
